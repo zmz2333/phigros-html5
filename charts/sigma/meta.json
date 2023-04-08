@@ -1,0 +1,21 @@
+{
+	"name":"Sigma (Haocore Mix)",
+	"codename":"sigma",
+	"artist":"kry.exe-天利",
+	"musicFile":"music.wav",
+	"ezRanking":17,
+	"hdRanking":17,
+	"inRanking":17,
+	"atRanking":17,
+	"lineTexture":"line.json",
+	"chartEZ":"Chart.json",
+	"chartHD":"Chart.json",
+	"chartIN":"Chart.json",
+	"chartAT":"Chart.json",
+	"chartLegacy":"Chart.json",
+	"illustration":"1.png",
+	"chartDesigner":"Phigros Spasming Team \"無極病院\"",
+	"illustrator":"笔记RE",
+	"sliceAudioStart":"10",
+	"sliceAudioDuration":"3"
+}
